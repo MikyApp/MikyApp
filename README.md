@@ -44,7 +44,7 @@ I am MikApp, a student and tech enthusiast with a passion for software developme
  <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
 
- <a href="https://www.linkedin.com/in/alamin20/">
+ <a href="https://www.linkedin.com/in/miguel-angel-paucar-porras-66339b2a9/">
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
